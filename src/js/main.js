@@ -2,17 +2,17 @@ $(document).ready(function() {
     "use strict"
 
     let lossesArr = [
-        { img: 'img/icon/1.png', name: 'Танки ', number: 1381 },
-        { img: 'img/icon/2.png', name: 'Бронемашини', number: 3392 },
-        { img: 'img/icon/3.png', name: 'Артелерійські системи', number: 686 },
-        { img: 'img/icon/4.png', name: 'Системи залпового вогню', number: 207 },
-        { img: 'img/icon/5.png', name: 'Засоби ППО', number: 95 },
-        { img: 'img/icon/6.png', name: 'Літаки', number: 210 },
-        { img: 'img/icon/7.png', name: 'Гелікоптери', number: 175 },
-        { img: 'img/icon/8.png', name: 'Автомобільна техніка і цистерни', number: 2360 },
+        { img: 'img/icon/1.png', name: 'Танки ', number: 1393 },
+        { img: 'img/icon/2.png', name: 'Бронемашини', number: 3429 },
+        { img: 'img/icon/3.png', name: 'Артелерійські системи', number: 703 },
+        { img: 'img/icon/4.png', name: 'Системи залпового вогню', number: 213 },
+        { img: 'img/icon/5.png', name: 'Засоби ППО', number: 96 },
+        { img: 'img/icon/6.png', name: 'Літаки', number: 212 },
+        { img: 'img/icon/7.png', name: 'Гелікоптери', number: 178 },
+        { img: 'img/icon/8.png', name: 'Автомобільна техніка і цистерни', number: 2406 },
         { img: 'img/icon/9.png', name: 'Кораблі (катери)', number: 13 },
-        { img: 'img/icon/10.png', name: 'Крилаті ракети', number: 122 },
-        { img: 'img/icon/12.png', name: 'БПЛА', number: 548 },
+        { img: 'img/icon/10.png', name: 'Крилаті ракети', number: 125 },
+        { img: 'img/icon/12.png', name: 'БПЛА', number: 559 },
         { img: 'img/icon/11.png', name: 'Спецтехніка', number: 53 },
     ];
 
